@@ -81,11 +81,28 @@ img{
     width: 300px;
 }
 
+.icon{
+    width: 23px;
+}
+
+.bigimg{
+    border: 2px solid black;
+    margin: auto;
+    width: 740px;
+}
+
 .row{
     display: flex;
 }
 
 a, h1, td, th{
+    color: white;
+    text-decoration: none;
+}
+
+h2{
+    text-align: center;
+    font-size:40px;
     color: white;
 }
 
@@ -98,6 +115,26 @@ body{
     background-color: rgb(40,44,52);
 }
 
+footer {
+  background-color: darkolivegreen;
+  color: white;
+  text-align: center;
+}
+
 html{
     font-family: Consolas;
+}
+
+.elements{
+    margin: auto;
+}
+
+.desc{
+    text-align: center;
+    background-color: white;
+}
+
+.whiteCenter{
+    text-align: center;
+    color: white;
 }
