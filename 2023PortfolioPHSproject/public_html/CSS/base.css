@@ -111,6 +111,10 @@ h3{
     /*background-image: url(../Images/rectangletrianglev1.png);*/
 }
 
+span{
+    background-color: white;
+}
+
 body{
     background-color: rgb(40,44,52);
 }
@@ -131,7 +135,7 @@ html{
 
 .desc{
     text-align: center;
-    background-color: white;
+    /*background-color: white;*/
 }
 
 .whiteCenter{
